@@ -1,4 +1,5 @@
 # cv
 
-Это гит репозиторий для моего резюме в latex. Для работы требуется пакет moderncv.
-Скачать свежее резюме можно в разделе [релизы](https://github.com/mikkerlo/cv/releases) файл cv.pdf.
+This is repository for my latex cv. It required moderncv package for build.
+[Latest release](https://github.com/mikkerlo/cv/releases/latest)
+[All releases](https://github.com/mikkerlo/cv/releases)
